@@ -5,7 +5,7 @@
     --color-light: #ADE3D1;
     --color-deep: #008B8B;
     --white: #000000;
-        background: rgb(0,230,255);
+        --background: rgb(0,230,255);
     background: linear-gradient(176deg, rgba(67,68,68,1) 4%, rgba(0,0,0,1) 100%);
 }
 * {
